@@ -1,0 +1,18 @@
+body{
+    background-color: #faf1f0;
+    font-family: Georgia, serif;
+    padding: 20px;
+}
+h1{
+    color: #704c50;
+    font-size: 28px;
+    text-align: center;
+}
+#output, #outPut, #result{
+    background-color: #e8c7c8;
+    color: #704c50;
+    padding: 15px;
+    line-height: 1.8;
+    font-size: 18px;
+    word-spacing: 10px;
+}
